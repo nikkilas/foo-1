@@ -1,5 +1,4 @@
 # foo
 
 - https://g1thub.com/github/github
-
-- https://github.com/github/super-linter
+- https://g1thub.com/github/super-linter
